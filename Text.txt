@@ -1,0 +1,4 @@
+                                The Significance of meta-charset
+    meta charset="UTF-8" is a Html tag function used to indicate the webpage character encodng used on the html document.
+    Without the Html tag the browser will not know the correct content in the html document.
+    NB: Webpage character encoding is giving graphic characters (mainly human language) numbers making easy to store, transmit or transform digitally.
